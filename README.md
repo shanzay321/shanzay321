@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=FF7EE5&center=true&vCenter=true&width=500&lines=✨+Welcome+to+my+colorful+world!;💻+Coding+with+creativity!;🎨+Designing+with+passion!;💜+Let's+make+something+beautiful!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=FF7EE5&center=true&vCenter=true&width=500&lines=✨+Welcome+to+my+colorful+world!;💻+Coding+with+creativity!;🎨+Designing+with+passion!;+Let's+make+something+beautiful!">
 </p>
