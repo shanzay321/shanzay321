@@ -22,18 +22,7 @@
 
 ---
 
-### 💫 Skills & Tools
-<p align="center">
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,illustrator,github" />
-
-  <!-- Custom Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="48" height="48" alt="Microsoft Word" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="48" height="48" alt="Microsoft PowerPoint" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/CapCut_Logo.png" width="48" height="48" alt="CapCut" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Canva_Logo.png" width="48" height="48" alt="Canva" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png" width="48" height="48" alt="AI Video Generator" />
-</p>
+### 💫 Skills & Tools <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,illustrator,github" /> </p>
 
 
 ---
