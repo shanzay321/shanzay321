@@ -24,8 +24,27 @@
 
 ### 💫 Skills & Tools
 <p align="center">
+  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,illustrator,github" />
+
+  <!-- Custom Icons -->
+  <!-- Microsoft Word -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="48" height="48" alt="Microsoft Word" title="Microsoft Word" />
+  
+  <!-- Microsoft PowerPoint -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" width="48" height="48" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" />
+  
+  <!-- CapCut -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/CapCut_Logo.svg" width="48" height="48" alt="CapCut" title="CapCut" />
+  
+  <!-- Canva -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canva_logo.svg" width="48" height="48" alt="Canva" title="Canva" />
+  
+  <!-- AI Video Generator -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="48" height="48" alt="AI Video Generator" title="AI Video Generator" />
 </p>
+
+
 
 ---
 
